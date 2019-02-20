@@ -8,7 +8,7 @@ This project consists of 2 modules:
   * Created metrics, performed data visualization to support interactive, real-time data analytics
 
 Project Deliverable:
-[Understanding Cancer Clinical Trials](/DataKind_Exploratory_Analysis.pdf)
+[Using Data Analytics to Understand and Fight Cancer](/DataKind_Exploratory_Analysis.pdf)
 
 ![alt text](/h-bar.png)
 ![alt text](/heatmap.png)
