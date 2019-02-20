@@ -3,6 +3,6 @@ Volunteer data analytics project with DataKind. This is a fun, interactive progr
 
 This project consists of 2 modules:
 * Module 1: [Data Scrubbing and Wrangling](/Module1_Data_Scrubbing.py)
-* Module 2: Interactive Analytics(main program)
-![alt text](https://github.com/melodyshi/DataKind_ClinicalTrial/blob/master/h-bar.png)
-![alt text](https://github.com/melodyshi/DataKind_ClinicalTrial/blob/master/heatmap.png)
+* Module 2: [Interactive Analytics(main program)](/Module2_Interactive_Analytics.py)
+![alt text](/h-bar.png)
+![alt text](/heatmap.png)
