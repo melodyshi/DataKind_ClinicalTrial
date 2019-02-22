@@ -1,4 +1,4 @@
-# DataKind_Using_Data_Analytics_To_Understand_and_Fight_Cancer
+# DataKind_Using_Data_Analytics_To_Understand_Cancer
 Volunteer data analytics project with DataKind. This is a fun, interactive program developed for Manhattan Medical Research, a local clinical research agency, to help understand the nature of cancer clinical trials. 
 
 This project consists of 2 modules:
